@@ -1,7 +1,7 @@
 # Double-Pendulum-Physics-Simulation
-Variables you can have fun with:\
+Variables you can have fun with:
 
-FPS (Frame per seconds) set in 60 by default. Please ensure this number is the same in both files.
+FPS (Frame per seconds) set in 60 by default. Please ensure this number is the same in both files.\
 G (Gravity) set in 9.81 by default.
 L1 (Pendulum arm length of the first mass)
 L2 (Pendulum arm length of the second mass)
