@@ -1,4 +1,5 @@
 # Double-Pendulum-Physics-Simulation
+![hippo]([https://github.com/zbcha/Double-Pendulum-Physics-Simulation/blob/main/Sample.gif?raw=true])
 Variables you can have fun with:
 
 FPS (Frame per seconds) set in 60 by default. Please ensure this number is the same in both files.\
